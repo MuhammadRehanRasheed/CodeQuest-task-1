@@ -66,7 +66,6 @@ function App() {
   const [BodyTextProps] = useState([
     {
       id: 'LO',
-      parentHeading: 'hello rehan',
       head: 'Learning Opportunities',
       body: 'Gain insights into industry practices, tools (like Git, npm, or various frameworks), and workflows (such as Agile).'
     },
